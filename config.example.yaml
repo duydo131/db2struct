@@ -1,0 +1,7 @@
+MYSQL:
+  HOST: 127.0.0.1
+  PORT: 3307
+  USERNAME: dev
+  PASSWORD: dev
+  DATABASE: db
+  OPTIONS: ?parseTime=true
